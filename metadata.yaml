@@ -1,5 +1,8 @@
 _repo: Was-John-Bunyan-a-Gipsy_51456
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51456-h/images/coverb.jpg
 creator:
   author:
     agent_name: Simson, James
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '40141'
     url: http://www.gutenberg.org/2009/agents/40141
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51456#Was-John-Bunyan-a-Gipsy
 gutenberg_issued: '2016-03-14'
 gutenberg_type: Text
 identifiers:
